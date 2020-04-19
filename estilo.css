@@ -1,0 +1,204 @@
+html {
+    font-family: Arial;
+    hyphens: auto;
+  }
+
+body { background-color: rgb(133, 216, 255);  
+  }
+
+  article {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+p.header {
+  text-align: center;
+  font-weight: bolder;
+}
+
+div.Foto {
+  text-align: center;
+  border: 1px black;
+}
+
+div.index {
+  text-align: right;
+  float: left;
+}
+
+div.index1 {
+  float: left;
+}
+
+div.index2 {
+  text-align: right;
+  float: right;
+}
+
+div.contacto {
+  text-align: justify;
+  float: left;
+  text-align: left;
+  border: black 2px solid;
+}
+
+div.PDF {
+  text-align: justify;
+  float: left;
+  text-align: center;
+  border: black 2px solid;
+}
+
+div.video {
+  text-align: right;
+  border: black 2px solid;
+}
+
+div.tecnico1 {
+  text-align: right;
+  float: right;
+}
+
+div.tecnicoestudio {
+  text-align: center;
+}
+
+div.crazyzoo {
+text-align: justify;
+float: left;
+text-align: left;
+}
+
+  h1 {
+      text-align: inherit;
+      text-align: center;
+      position: relative;
+      font-family: Arial;
+  }
+
+  h2 { 
+    text-align: center;
+    position: relative;
+    font-family: Arial;
+  }
+  
+  div.caja {
+    border: black 2px solid;
+    margin: 10px;
+  }
+
+  div.caja2 {
+    border: black 3px solid;
+  }
+
+  div.caja3 {
+    border: black 3px solid;
+  }
+
+  div.caja5 {
+   border: black 3px solid;
+   text-align: center;
+  }
+
+  div.caja6 {
+    border: black 3px solid;
+    text-align: center;
+   }
+
+   div.caja7 {
+    border: black 3px solid;
+    text-align: center;
+   }
+
+   div.caja8 {
+    border: black 3px solid;
+    text-align: center;
+    float: left;
+   }
+  
+  article p {
+    margin: 0px;
+    padding: 5px;
+  }
+  
+  article.curriculum {
+    align-items: center;
+  }
+  
+  article.curriculum div.caja {
+    width: 1600px;
+  }
+
+  article.curriculum div.caja3 {
+    width: 400px;
+    height: 300px;
+  }
+
+  article.curriculum div.caja5 {
+    width: 1200px;
+  }
+  
+  article.curriculum div.caja6 {
+    width: 1600px;
+  }
+
+  article.curriculum div.caja7 {
+    width: 1600px;
+    float: center;
+    text-align: center;
+  }
+
+  article.curriculum p.p2 {
+    border-bottom: black 2px solid;
+  }
+  
+  p.p2 {
+    padding: 5px 0;
+    background-color: rgb(122, 153, 182);
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  p.p3 {
+    text-align: justify;
+    font-weight: bold;
+  }
+  
+  p.p4 {
+    text-align: justify;
+    font-weight: bold;
+  }
+
+  p.p5 {
+    padding: 5px 0;
+    background-color: rgb(122, 153, 182);
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center; 
+  }
+
+  p.p6 {
+    padding: 5px 0;
+    background-color: rgb(68, 117, 163);
+    font-size: 150%;
+    font-weight: bold;
+    text-align: center; 
+  }
+
+  address {
+    text-align: center;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: lightblue;
+    font-weight: bold ;
+  }
+
+
+
+  
+
+   
+  
